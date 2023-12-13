@@ -1,0 +1,24 @@
+{
+    "result": [
+      {
+        "category": "Category One",
+        "item": ["Bhindi","Gobi","Aalu"]
+      },
+      {
+        "category": "Category Two",
+        "item": ["Tomato","Onion","Garlic","Ginger"]
+      },
+      {
+        "category": "Category Three",
+        "item": ["Apple","Banana","Oranges","Grapes","Melons"]
+      },
+      {
+        "category": "Category Four",
+        "item": ["Pizza","Chinese","Rice","Soups","Curry","Dal"]
+      },
+      {
+        "category": "Category Five",
+        "item": ["Jeera Rice","Salad","Dosa","Idli","Samosa","Sambar"]
+      }
+    ]
+}
