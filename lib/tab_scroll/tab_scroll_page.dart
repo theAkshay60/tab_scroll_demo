@@ -45,7 +45,7 @@ class _TabScrollPageState extends State<TabScrollPage> {
       body: Theme(
         data: Theme.of(context).copyWith(
           tabBarTheme: Theme.of(context).tabBarTheme.copyWith(
-                tabAlignment: TabAlignment.start,
+                tabAlignment: TabAlignment.center,
               ),
         ),
         child: ScrollableListTabScroller(
